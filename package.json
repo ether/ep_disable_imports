@@ -1,6 +1,6 @@
 {
   "name": "ep_disable_imports",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Etherpad plugin to selectively or completely disable imports.",
   "main": "index.js",
   "scripts": {
@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/ether/ep_disable_imports#readme",
   "devDependencies": {
-    "eslint": "^8.57.0",
+    "eslint": "^8.57.1",
     "eslint-config-etherpad": "^4.0.4",
-    "typescript": "^5.4.2"
+    "typescript": "^5.9.3"
   },
   "engines": {
     "node": ">=18.0.0"
