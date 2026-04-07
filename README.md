@@ -10,7 +10,7 @@ imports.
 From the Etherpad working directory, run:
 
 ```shell
-npm install --no-save --legacy-peer-deps ep_disable_imports
+pnpm run plugins install ep_disable_imports
 ```
 
 Or, install from Etherpad's `/admin/plugins` page.
