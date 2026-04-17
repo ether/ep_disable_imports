@@ -1,6 +1,6 @@
 ![Publish Status](https://github.com/ether/ep_disable_imports/workflows/Node.js%20Package/badge.svg) [![Backend Tests Status](https://github.com/ether/ep_disable_imports/actions/workflows/test-and-release.yml/badge.svg)](https://github.com/ether/ep_disable_imports/actions/workflows/test-and-release.yml)
 
-# ep_disable_imports
+# Disable Imports in Etherpad
 
 [Etherpad](https://etherpad.org/) plugin to selectively or completely disable
 imports.
