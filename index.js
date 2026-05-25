@@ -1,9 +1,9 @@
 'use strict';
 
 const assert = require('assert').strict;
-const log4js = require('ep_etherpad-lite/node_modules/log4js');
+const {createLogger} = require('ep_plugin_helpers/logger');
 
-const logger = log4js.getLogger('ep_disable_imports');
+const logger = createLogger('ep_disable_imports');
 let allow = new Set();
 let deny = new Set();
 
